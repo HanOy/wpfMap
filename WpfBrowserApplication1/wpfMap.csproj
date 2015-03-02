@@ -95,8 +95,6 @@
     </None>
     <None Include="Properties\app.manifest" />
     <AppDesigner Include="Properties\" />
-    <None Include="Resources\Fonts\130B69DC-EA83-4692-B8E3-76B5E04C0A39.odttf" />
-    <None Include="Resources\Fonts\5BE0E0F2-6688-4187-AB2A-0AF6FF1F08EB.odttf" />
     <None Include="WpfBrowserApplication1_TemporaryKey.pfx" />
   </ItemGroup>
   <PropertyGroup>
